@@ -21,6 +21,18 @@ public class App {
     public void printInstructions() {
        
     }
+
+    
+public String getUserName() {
+    return "Charlotte";
+}
+
+public void printGreeting(){
+    System.out.println ("hi"); 
+}
+
+
+
     
     // add and implement the other methods you need in this area below!
     
